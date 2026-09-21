@@ -7,7 +7,6 @@ A minecraft mod.A Corestone infection module designed based on the definitions o
 │   ├── l2hostility-2-14.5.19.jar
 │   └── l2library-2-8.5.3.jar
 └── src/
-    ├── main/                 122 个 Java 文件 + 全部资源（贴图/模型/音效/粒子/lang/配方/战利品表/mixins）
     ├── epicfight/            史诗战斗兼容层源码集（3 个文件）
     └── l2compat/             莱特兰-恶意兼容层源码集（1 个文件）
 # 许可
@@ -16,6 +15,7 @@ Copyright (C) 2026 RhodesislandDr
 本项目的源代码（`/src` 目录及构建脚本）采用GNU GPLv3发布。详见 `LICENSE`。
 # 美术/音频/模型/动画等素材
 本项目的素材（`/assets` 目录等）采用All Rights Reserved (ARR)。未经作者书面许可，任何人不得使用、复制、修改、分发或用于商业用途。详见 `LICENSE-ASSETS`。
+代码包内不提供该项目美术/音频/模型/动画等素材，需使用者个人替换后使用。
 # 再分发要求
 当你分发基于本项目的衍生作品时：
 - 源代码部分必须继续以 GPLv3 授权；
